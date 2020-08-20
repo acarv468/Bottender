@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+    <h1 class="jumbotron text-center">Welcome to Bottender</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3 offset-sm-3">
+            <div id="chatbox"></div>
+                <p class="botText"><span>
+                Welcome to Bottender! The year is 2323. The city in which you live has been mostly taken over by robots.
+                You just got your first job as bartender where most of your customers are robots. 
+                Talk to them to get to know them and earn tips! Click start to begin.
+                </span></p>
+            </div>
+            <div id="userInput">
+                <!--<input id="textInput" class="form-control" type="text" name="msg" placeholder="Type Your Message Here"> -->
+                <!-- <input id="buttonInput" class="btn btn-success form-control" type="submit" value="Start Game"> -->
+                <form action="{{ url_for('game') }}">
+                    <input type="submit" value="Start" />
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</div>
+</body>
+</html>

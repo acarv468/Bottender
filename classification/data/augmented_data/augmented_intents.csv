@@ -1,0 +1,1442 @@
+text,intent
+hello,greeting
+hi,greeting
+howdy,greeting
+greetings,greeting
+welcome,greeting
+how do you like the drink?,drink_opinion.q
+how do you like your drink?,drink_opinion.q
+how do you think of your drink?,drink_opinion.q
+how do you think of the drink?,drink_opinion.q
+do you like the drink?,drink_opinion.q
+do you like your drink?,drink_opinion.q
+are you pleased with your drink?,drink_opinion.q
+do you love your drink?,drink_opinion.q
+Your drink. Do you like it or do you like it?,drink_opinion.q
+what do you think of your drink?,drink_opinion.q
+are you pleased with the drink?,drink_opinion.q
+are you happy with the drink?,drink_opinion.q
+are you happy with your drink?,drink_opinion.q
+what do you do?,what_job.q
+what's your job?,what_job.q
+what's your role?,what_job.q
+what do you do for a job?,what_job.q
+where do you work?,what_job.q
+what's your career?,what_job.q
+tell me about your job,what_job.q
+what is it that you do?,what_job.q
+do you dislike the drink?,drink_opinion.q
+do you hate your drink?,drink_opinion.q
+are you displeased with your drink?,drink_opinion.q
+do you hate your drink?,drink_opinion.q
+Your drink. Do you like it or do you dislike it?,drink_opinion.q
+are you pleased with the drink?,drink_opinion.q
+are you unhappy with the drink?,drink_opinion.q
+are you unhappy with your drink?,drink_opinion.q
+do you hate the drink?,drink_opinion.q
+do you dislike your drink?,drink_opinion.q
+do you like your drink or not?,drink_opinion.q
+what do you do for work?,what_job.q
+tell me about your career,what_job.q
+do you like your job?,job_opinions.q
+are you happy at your job?,job_opinions.q
+do you like what you do?,job_opinions.q
+do you enjoy your work?,job_opinions.q
+what do you think of your job?,job_opinions.q
+do you enjoy what you do?,job_opinions.q
+do you enjoy your career?,job_opinions.q
+what do you want to do?,what_goals.q
+what is your dream job?,what_goals.q
+what job do you want?,what_goals.q
+what is your life goal?,what_goals.q
+what would you rather be doing?,what_goals.q
+what is your dream career?,what_goals.q
+what job would you rather do?,what_goals.q
+what do you hope to be doing?,what_goals.q
+what is your ideal job?,what_goals.q
+you can do it,encouragement.s
+believe in yourself,encouragement.s
+you can get there,encouragement.s
+I believe in you,encouragement.s
+go for it,encouragement.s
+you got this,encouragement.s
+you can do anything you put your mind to,encouragement.s
+how are you?,hru.q
+how are you doing,hru.q
+how do you feel?,hru.q
+what's up,hru.q
+what's going on?,hru.q
+what's up?,hru.q
+what is up?,hru.q
+how are you holding up?,hru.q
+how are you personally?,hru.q
+what do you do for fun?,hobbies.q
+what are your interests?,hobbies.q
+what are your hobbies?,hobbies.q
+what do you like to do?,hobbies.q
+what interests you?,hobbies.q
+hobbies?,hobbies.q
+any hobbis?,hobbies.q
+do you have any hobbies?,hobbies.q
+what do you do outside of work?,hobbies.q
+who are you?,identity.q
+what's your name?,identity.q
+tell me about you,identity.q
+tell me about yourself,identity.q
+where are you from?,where_from.q
+where do you live?,where_from.q
+where were you built?,where_from.q
+what town do you live in?,where_from.q
+good luck,well_wish.s
+good luck with that,well_wish.s
+good luck on your journey,well_wish.s
+I hope you success,well_wish.s
+I wish you good luck,well_wish.s
+I wish you well,well_wish.s
+how's the weather?,weather.q
+so about this weather…,weather.q
+what do you think of the weather?,weather.q
+how does a bot like you deal with this weather?,weather.q
+do you like sports?,sports.q
+what sports do you like?,sports.q
+do you like football?,sports.q
+do you like basketball?,sports.q
+are you a sports fan?,sports.q
+are you a fan of sports?,sports.q
+what movies do you like?,movies.q
+do you watch movies?,movies.q
+do you enjoy movies?,movies.q
+what's your favorite movie?,movies.q
+have you seen any movies?,movies.q
+seen any good movies?,movies.q
+what music do you like?,music.q
+do you listen to music?,music.q
+what music do you listen to?,music.q
+what songs do you like?,music.q
+what songs do you listen to?,music.q
+what's your favorite type of music?,music.q
+what is your favorite music?,music.q
+do you have a family?,family.q
+do you have any family?,family.q
+what's your family life like?,family.q
+what's your home life like?,family.q
+how big is your family?,family.q
+any family?,family.q
+do you have any brothers or sisters?,family.q
+do you have a mom or dad?,family.q
+have you traveled anywhere?,travel.q
+do you travel?,travel.q
+have you ever gone on a vacation?,travel.q
+have you taken a vacation?,travel.q
+have you ever gone on a trip?,travel.q
+have you taken a trip,travel.q
+hell0,greeting
+hi,greeting
+h0wdy,greeting
+9reetin9s,greeting
+we1c0me,greeting
+how du y0u like the drink ?,drink_opinion.q
+how do yoo 1ike your drink ?,drink_opinion.q
+how d0 you think of your drinr ?,drink_opinion.q
+how d0 you think of the drinr ?,drink_opinion.q
+do you like the drink ?,drink_opinion.q
+do y0u like your drink ?,drink_opinion.q
+are you pleased with your dkink ?,drink_opinion.q
+do you 1ove your drink ?,drink_opinion.q
+Your drink . Do you lire it or du you like it ?,drink_opinion.q
+what do you think uf your drink ?,drink_opinion.q
+are you pleased with the dkink ?,drink_opinion.q
+ake you happy with the drink ?,drink_opinion.q
+are you happy with yoor drink ?,drink_opinion.q
+what do y0u do ?,what_job.q
+what ' 8 your job ?,what_job.q
+what ' s your role ?,what_job.q
+what do yuu do f0r a job ?,what_job.q
+wheke do you work ?,what_job.q
+what ' 8 your career ?,what_job.q
+tell me about yoor job,what_job.q
+what i8 it that you do ?,what_job.q
+do you dislike the drink ?,drink_opinion.q
+do yoo hate your drink ?,drink_opinion.q
+are yoo displeased with your dkink ?,drink_opinion.q
+do you hate your drink ?,drink_opinion.q
+Your drinr . Do y0u like it or do you dislike it ?,drink_opinion.q
+ake you pleased with the drinr ?,drink_opinion.q
+are y0u unhappy with the drink ?,drink_opinion.q
+are you unhappy with yoor drink ?,drink_opinion.q
+du you hate the drink ?,drink_opinion.q
+do y0u dislike your drink ?,drink_opinion.q
+do you like yoor drink ur not ?,drink_opinion.q
+what du you do fur work ?,what_job.q
+tell me about yuur career,what_job.q
+do you like yoor job ?,job_opinions.q
+ake you happy at your job ?,job_opinions.q
+du yoo like what you do ?,job_opinions.q
+do you enj0y your work ?,job_opinions.q
+what du you thinr of your job ?,job_opinions.q
+do you enjuy what you do ?,job_opinions.q
+d0 you enjoy your career ?,job_opinions.q
+what do you want to du ?,what_goals.q
+what is your dream job ?,what_goals.q
+what job do you want ?,what_goals.q
+what is your 1ife goal ?,what_goals.q
+what would you rathek be doing ?,what_goals.q
+what is your dream careek ?,what_goals.q
+what job would y0u rather du ?,what_goals.q
+what do you hope to be doin9 ?,what_goals.q
+what is your ideal job ?,what_goals.q
+you can d0 it,encouragement.s
+6e1ieve in yourself,encouragement.s
+you can 9et there,encouragement.s
+I 6e1ieve in you,encouragement.s
+gu for it,encouragement.s
+you got thi8,encouragement.s
+you can do anything you put youk mind to,encouragement.s
+h0w are you ?,hru.q
+huw are you doing,hru.q
+h0w do you feel ?,hru.q
+what ' s up,hru.q
+what ' 8 going on ?,hru.q
+what ' s op ?,hru.q
+what is up ?,hru.q
+h0w are you holding up ?,hru.q
+huw are you personally ?,hru.q
+what d0 yoo do for fun ?,hobbies.q
+what are your interests ?,hobbies.q
+what are youk hobbies ?,hobbies.q
+what do you like t0 do ?,hobbies.q
+what interests you ?,hobbies.q
+hobbies ?,hobbies.q
+any hobbis ?,hobbies.q
+do you have any h0bbie8 ?,hobbies.q
+what do you do outside 0f work ?,hobbies.q
+who ake you ?,identity.q
+what ' s your name ?,identity.q
+tell me ab0ut you,identity.q
+te1l me about yourself,identity.q
+where ake you from ?,where_from.q
+wheke do you live ?,where_from.q
+where were you boilt ?,where_from.q
+what town d0 you live in ?,where_from.q
+good 1uck,well_wish.s
+good lock with that,well_wish.s
+good luck on your juorney,well_wish.s
+I hope you 8occess,well_wish.s
+I wi8h you good luck,well_wish.s
+1 wish you well,well_wish.s
+how ' 8 the weather ?,weather.q
+so about this weathek …,weather.q
+what do yuu think of the weather ?,weather.q
+how doe8 a bot like y0u deal with this weather ?,weather.q
+du you like sports ?,sports.q
+what sports do yoo like ?,sports.q
+do you like foot6a1l ?,sports.q
+du you like basketball ?,sports.q
+are you a sports fan ?,sports.q
+are you a fan 0f sports ?,sports.q
+what movies do y0u like ?,movies.q
+do you watch movies ?,movies.q
+do you enj0y movies ?,movies.q
+what ' 8 your favorite m0vie ?,movies.q
+have you 8een any movies ?,movies.q
+seen any good movies ?,movies.q
+what music d0 you like ?,music.q
+du you listen to music ?,music.q
+what music do you listen tu ?,music.q
+what songs do you 1ike ?,music.q
+what songs do yuu listen to ?,music.q
+what ' s your favorite type uf music ?,music.q
+what is youk favorite music ?,music.q
+do y0u have a family ?,family.q
+do you have any family ?,family.q
+what ' s your family 1ife like ?,family.q
+what ' s your home 1ife like ?,family.q
+how big is your family ?,family.q
+any family ?,family.q
+d0 you have any brothers or sisters ?,family.q
+do you have a mum or dad ?,family.q
+have yuu traveled anywhere ?,travel.q
+du you travel ?,travel.q
+have you evek gune on a vacation ?,travel.q
+have y0u taken a vacation ?,travel.q
+have you evek gone on a trip ?,travel.q
+have you taren a trip,travel.q
+hell(,greeting
+hi,greeting
+howdU,greeting
+nreetingC,greeting
+weldoJe,greeting
+how do you like the drink ?,drink_opinion.q
+how do you like tour drLnk ?,drink_opinion.q
+how do you 4hink of your drink ?,drink_opinion.q
+how do you think of the drink ?,drink_opinion.q
+do you like the drink ?,drink_opinion.q
+do you like your drink ?,drink_opinion.q
+are you OlWased with your drink ?,drink_opinion.q
+do you love your driMk ?,drink_opinion.q
+Your drink . Do you like it or do you :ike it ?,drink_opinion.q
+what do you think of your d#ink ?,drink_opinion.q
+are you pleased with the d%ink ?,drink_opinion.q
+are you happy with the rrink ?,drink_opinion.q
+are you happy with yoHr drink ?,drink_opinion.q
+what do you do ?,what_job.q
+what ' s your job ?,what_job.q
+dhat ' s your role ?,what_job.q
+what do you do for a job ?,what_job.q
+wMere do you work ?,what_job.q
+whaG ' s your career ?,what_job.q
+tell me about your job,what_job.q
+what is it thWt you do ?,what_job.q
+do you dislike the drink ?,drink_opinion.q
+do you hate your drink ?,drink_opinion.q
+are you d9splDSsed with yout drink ?,drink_opinion.q
+do you hate your drinm ?,drink_opinion.q
+Your drini . Do you ;ike it or do you dislike it ?,drink_opinion.q
+are you pleased wi%h the drink ?,drink_opinion.q
+are you unhappy with the Frink ?,drink_opinion.q
+are you unhappy with Gour drinM ?,drink_opinion.q
+do you hate the drin. ?,drink_opinion.q
+do you dislike your drink ?,drink_opinion.q
+do you like your drink or not ?,drink_opinion.q
+wyat do you do for work ?,what_job.q
+tell me about y0ur career,what_job.q
+do you like your job ?,job_opinions.q
+are you happy at yPur job ?,job_opinions.q
+do you like what you do ?,job_opinions.q
+do you enjoy your work ?,job_opinions.q
+wmat do you think of ypur job ?,job_opinions.q
+do you enjoy wYat you do ?,job_opinions.q
+do you enjpy your career ?,job_opinions.q
+what do you want to do ?,what_goals.q
+what is your dream job ?,what_goals.q
+what job do you want ?,what_goals.q
+what is your life goa/ ?,what_goals.q
+what would you rather be foing ?,what_goals.q
+what is your dream career ?,what_goals.q
+what job would you rather do ?,what_goals.q
+Ahat do you hope to be doinn ?,what_goals.q
+what is yoHr ideal job ?,what_goals.q
+you can do it,encouragement.s
+bel*Sve in yourself,encouragement.s
+you can get there,encouragement.s
+I believe in you,encouragement.s
+go for it,encouragement.s
+you got this,encouragement.s
+you can do anything you put y8ur mind to,encouragement.s
+how are you ?,hru.q
+how are you doKng,hru.q
+how do you feel ?,hru.q
+what ' s up,hru.q
+what ' s going on ?,hru.q
+what ' s up ?,hru.q
+what is up ?,hru.q
+how are you holding up ?,hru.q
+how are you personally ?,hru.q
+what do you do for fun ?,hobbies.q
+what are your igterestq ?,hobbies.q
+what are youF hobbies ?,hobbies.q
+what do you <ike to do ?,hobbies.q
+what interests you ?,hobbies.q
+goNbies ?,hobbies.q
+any hohbis ?,hobbies.q
+do you yave any hobbies ?,hobbies.q
+what do you do outside of work ?,hobbies.q
+who are you ?,identity.q
+what ' s your name ?,identity.q
+^ell me about you,identity.q
+t#ll me about yourself,identity.q
+where are you from ?,where_from.q
+where do you live ?,where_from.q
+where were you built ?,where_from.q
+what town do you Kive in ?,where_from.q
+good lucL,well_wish.s
+goox luck with that,well_wish.s
+good lusk on your journey,well_wish.s
+I Nope you success,well_wish.s
+I wish you gooE luck,well_wish.s
+I wish you well,well_wish.s
+how ' s the weather ?,weather.q
+so about this weatNrr …,weather.q
+what do you think of the weather ?,weather.q
+how doeZ a bot like you deal with this weather ?,weather.q
+do you like sports ?,sports.q
+what sports do you like ?,sports.q
+do you like footbw;l ?,sports.q
+do you like basketball ?,sports.q
+are you a sports fan ?,sports.q
+are you a fan of sports ?,sports.q
+what movies do you like ?,movies.q
+do you watcN movies ?,movies.q
+do you enYoy movies ?,movies.q
+what ' s your favorite movJe ?,movies.q
+have you seen any movies ?,movies.q
+seen any good movies ?,movies.q
+what mueic do you like ?,music.q
+do you listen to music ?,music.q
+what musiF do you listen to ?,music.q
+what songs do you likW ?,music.q
+what songs do you listen to ?,music.q
+what ' s your faDirite type of music ?,music.q
+whah is your favorite music ?,music.q
+do you have a family ?,family.q
+do you have any family ?,family.q
+what ' s 5our family life like ?,family.q
+qhat ' s your home ljfe like ?,family.q
+how big is your family ?,family.q
+any family ?,family.q
+do you have any Hro%hers or sisters ?,family.q
+do you Jave a mom or dad ?,family.q
+have you traveled anywhere ?,travel.q
+do you t4avel ?,travel.q
+haBe you ever gone on a vacation ?,travel.q
+have you taken a vacation ?,travel.q
+have you ever gone on a trip ?,travel.q
+have you taken a tDip,travel.q
+hell!o,greeting
+hi,greeting
+ho@wdy,greeting
+greetiynNgs,greeting
+vwelEcome,greeting
+how do you like the Ndrink ?,drink_opinion.q
+how do you like yoMur drink ?,drink_opinion.q
+how do you think of your drink ?,drink_opinion.q
+how do you think of the drink ?,drink_opinion.q
+do you like the drink ?,drink_opinion.q
+do you Jlike your drink ?,drink_opinion.q
+are you pleased wCith your drink ?,drink_opinion.q
+do you love your drink ?,drink_opinion.q
+Your drin*k . Do you like it or do you like it ?,drink_opinion.q
+whaGt do you think of your drtink ?,drink_opinion.q
+are you p*ldeased with the drink ?,drink_opinion.q
+are you happy with the drink ?,drink_opinion.q
+are you Chappy with your drink ?,drink_opinion.q
+what do you do ?,what_job.q
+w&hat ' s your job ?,what_job.q
+what ' s your r2ole ?,what_job.q
+what do you do for a job ?,what_job.q
+where do you work ?,what_job.q
+what ' s your career ?,what_job.q
+telQl me about your job,what_job.q
+whaMt is it tha5t you do ?,what_job.q
+do you dislike the drink ?,drink_opinion.q
+do you haOte your drink ?,drink_opinion.q
+are you displeased with ryour drink ?,drink_opinion.q
+do you hate yoXur drink ?,drink_opinion.q
+Your drink . Do you like it or do you dislike it ?,drink_opinion.q
+are you Bplease*d with the drink ?,drink_opinion.q
+are you unhappy with the drink ?,drink_opinion.q
+are you unhappy Jwith your drnink ?,drink_opinion.q
+do you hate the drink ?,drink_opinion.q
+do you dislike your drink ?,drink_opinion.q
+do you like your drvink or not ?,drink_opinion.q
+what do you do for work ?,what_job.q
+tell me abou#t your career,what_job.q
+do you like your job ?,job_opinions.q
+are you happy at your job ?,job_opinions.q
+do you like what you do ?,job_opinions.q
+do you enjoVy your work ?,job_opinions.q
+wXhat do you #think of your job ?,job_opinions.q
+do you enjoy what you do ?,job_opinions.q
+do you enjoy your careecr ?,job_opinions.q
+what do you want to do ?,what_goals.q
+what is your _dream job ?,what_goals.q
+what job do you wa5nt ?,what_goals.q
+what is yoPur life goal ?,what_goals.q
+whDat would you rather be doing ?,what_goals.q
+what is your dream caMreer ?,what_goals.q
+what job would you ratheir do ?,what_goals.q
+what do you hope to be dUoing ?,what_goals.q
+what is your ideal job ?,what_goals.q
+you can do it,encouragement.s
+belie5vee in yourself,encouragement.s
+you can get thegre,encouragement.s
+I NbPelieve in you,encouragement.s
+go for it,encouragement.s
+you got this,encouragement.s
+you can do anything you put Syour mind to,encouragement.s
+how are you ?,hru.q
+how are you doTing,hru.q
+how do you feel ?,hru.q
+what ' s up,hru.q
+what ' s going on ?,hru.q
+what ' s up ?,hru.q
+what is up ?,hru.q
+how are you holding up ?,hru.q
+how are you personally ?,hru.q
+wha@t do you do for fun ?,hobbies.q
+what are your interests ?,hobbies.q
+what are your hobbies ?,hobbies.q
+what do you like to do ?,hobbies.q
+what interests you ?,hobbies.q
+chobb!ies ?,hobbies.q
+any hobbis ?,hobbies.q
+do you haKve any hobbies ?,hobbies.q
+awhat do you do outside of work ?,hobbies.q
+who are you ?,identity.q
+what ' s your name ?,identity.q
+tell me abo3ut you,identity.q
+tel0l me about yourself,identity.q
+where are you from ?,where_from.q
+whedre do you live ?,where_from.q
+where werPe you built ?,where_from.q
+wLhat town do you live in ?,where_from.q
+gYood luck,well_wish.s
+good luack with that,well_wish.s
+gVood luck on your journey,well_wish.s
+I hope you smuccesQs,well_wish.s
+I wish you good lu$ck,well_wish.s
+I wish you well,well_wish.s
+how ' s the weather ?,weather.q
+so about thcis weather …,weather.q
+what do you think of the weather ?,weather.q
+how does a bot like you deal with this weather ?,weather.q
+do you Plike sports ?,sports.q
+what sports do you like ?,sports.q
+do you likwe football ?,sports.q
+do you like basketball ?,sports.q
+are you a sports fan ?,sports.q
+are you a fan of sports ?,sports.q
+wNhat movies do you like ?,movies.q
+do you watch movies ?,movies.q
+do you enjEoy movies ?,movies.q
+what ' s your favorite movie ?,movies.q
+have you seen any movies ?,movies.q
+seen any g5ood movies ?,movies.q
+what muOsic do you like ?,music.q
+do you listen to music ?,music.q
+@what music do you listen to ?,music.q
+what songs do you like ?,music.q
+what songs do you listen to ?,music.q
+what ' s you(r favorite mtype of music ?,music.q
+what is your favorite music ?,music.q
+do you have a family ?,family.q
+do you have any family ?,family.q
+what ' s your family life like ?,family.q
+what ' s vyour ihome life like ?,family.q
+how big is yo#ur family ?,family.q
+any family ?,family.q
+do you have any brrothezrs or sdis$ters ?,family.q
+do you have a mom or dad ?,family.q
+have you qtr7aveled anywhere ?,travel.q
+do you travel ?,travel.q
+have you ever gone on a 4vEacation ?,travel.q
+Chave you taken a vacation ?,travel.q
+have you ever gone on a trip ?,travel.q
+have you tak0en a trip,travel.q
+Oello,greeting
+hi,greeting
+ho2dy,greeting
+g+ee8ings,greeting
+wel0ore,greeting
+how do you like the drLnk ?,drink_opinion.q
+how do you liRe yorr drink ?,drink_opinion.q
+how do you think of your drink ?,drink_opinion.q
+how do you think of the dIink ?,drink_opinion.q
+do you like the drink ?,drink_opinion.q
+do you like yofr drink ?,drink_opinion.q
+are you pleased with your d)ink ?,drink_opinion.q
+do you lqve your drink ?,drink_opinion.q
+Your drink . Do you like it or do you wike it ?,drink_opinion.q
+!hat do you think of your drink ?,drink_opinion.q
+are you pleased with the drink ?,drink_opinion.q
+are you haspy with the drink ?,drink_opinion.q
+are you happy with your Qrink ?,drink_opinion.q
+what do you do ?,what_job.q
+what ' s your job ?,what_job.q
+what ' s Cour role ?,what_job.q
+what do you do for a job ?,what_job.q
+where do you work ?,what_job.q
+what ' s your career ?,what_job.q
+t4ll me about your job,what_job.q
+what is it t4at you do ?,what_job.q
+do you cisli@e the drink ?,drink_opinion.q
+do you hate your drinm ?,drink_opinion.q
+are you displeased with your drink ?,drink_opinion.q
+do you hate your drink ?,drink_opinion.q
+Your drink . Do you liVe it or do you dislike it ?,drink_opinion.q
+are you ploa1ed with the drink ?,drink_opinion.q
+are you unhappy with the dri1k ?,drink_opinion.q
+are you unhappy with yozr drink ?,drink_opinion.q
+do you hate the drink ?,drink_opinion.q
+do you dislike your drink ?,drink_opinion.q
+do you like yhur drink or not ?,drink_opinion.q
+what do you do for work ?,what_job.q
+tel! me about your career,what_job.q
+do you Hike your job ?,job_opinions.q
+are you *appy at ysur job ?,job_opinions.q
+do you like what you do ?,job_opinions.q
+do you enjoy your work ?,job_opinions.q
+what do you think of your job ?,job_opinions.q
+do you enjoy what you do ?,job_opinions.q
+do you enjoy your career ?,job_opinions.q
+what do you wanU to do ?,what_goals.q
+what is your dream job ?,what_goals.q
+what job do you want ?,what_goals.q
+what is your life goal ?,what_goals.q
+wh7t would you rather be doing ?,what_goals.q
+what is your dream 4areer ?,what_goals.q
+whak job would you rather do ?,what_goals.q
+what do you hope to be doing ?,what_goals.q
+what is your ideal job ?,what_goals.q
+you can do it,encouragement.s
+Relmeve in yourself,encouragement.s
+you can get the*e,encouragement.s
+I believe in you,encouragement.s
+go for it,encouragement.s
+you got this,encouragement.s
+you can do anythZn) you put your mind to,encouragement.s
+how are you ?,hru.q
+how are you doing,hru.q
+how do you feel ?,hru.q
+what ' s up,hru.q
+what ' s going on ?,hru.q
+what ' s up ?,hru.q
+what is up ?,hru.q
+how are you holding up ?,hru.q
+how are you personally ?,hru.q
+what do you do for fun ?,hobbies.q
+what are you# interests ?,hobbies.q
+what are your hobbies ?,hobbies.q
+whaG do you lMke to do ?,hobbies.q
+what inheresls you ?,hobbies.q
+H8bbies ?,hobbies.q
+any hobbis ?,hobbies.q
+do you have any 60bbies ?,hobbies.q
+what do you do oWtsiye of work ?,hobbies.q
+who are you ?,identity.q
+what ' s your name ?,identity.q
+tell me abous you,identity.q
+tell me about Ioursexf,identity.q
+where are you from ?,where_from.q
+where do you live ?,where_from.q
+where were you built ?,where_from.q
+what town do you live in ?,where_from.q
+7ood luck,well_wish.s
+good luck with Phat,well_wish.s
+good luck on your jooRney,well_wish.s
+I Bope you success,well_wish.s
+I wish you good xuck,well_wish.s
+I wish you wgll,well_wish.s
+how ' s the weather ?,weather.q
+so about this weather …,weather.q
+what do you think of the weather ?,weather.q
+how ^oes a bot like you depl with this weather ?,weather.q
+do you like sports ?,sports.q
+wUat sports do you like ?,sports.q
+do you like football ?,sports.q
+do you likw basketball ?,sports.q
+are you a sports fan ?,sports.q
+are you a fan of sports ?,sports.q
+what mAvies do you like ?,movies.q
+do you watch movies ?,movies.q
+do you enjoy 3ovies ?,movies.q
+whVt ' s your iavoritb movie ?,movies.q
+have you seen any mo1ies ?,movies.q
+seen any good movies ?,movies.q
+what musi0 do you like ?,music.q
+do you list^n to music ?,music.q
+what musiI do you listen to ?,music.q
+what songs do you like ?,music.q
+what songs do you listen to ?,music.q
+what ' s your favorite type of music ?,music.q
+wKat is your favorite music ?,music.q
+do you have a family ?,family.q
+do you havH any family ?,family.q
+what ' s Qour family life l_ke ?,family.q
+what ' s your h1me life like ?,family.q
+how big is your fNmily ?,family.q
+any family ?,family.q
+do you hnve any brothers or sisters ?,family.q
+do you Nave a mom or dad ?,family.q
+have you traveled anywhere ?,travel.q
+do you tXavel ?,travel.q
+have you eveV gone on a vacation ?,travel.q
+have you taken a vacation ?,travel.q
+hPve you ever gone on a trip ?,travel.q
+ha^e you taken a trip,travel.q
+ehllo,greeting
+hi,greeting
+howyd,greeting
+geretinsg,greeting
+ewlcoem,greeting
+how do you liek the drink ?,drink_opinion.q
+how do you like yuor drink ?,drink_opinion.q
+how do you think of your rdink ?,drink_opinion.q
+how do you think of the drink ?,drink_opinion.q
+do you like the drink ?,drink_opinion.q
+do you like your dirnk ?,drink_opinion.q
+are you pleased with your rdink ?,drink_opinion.q
+do you love yuor drink ?,drink_opinion.q
+Your drink . Do you liek it or do you like it ?,drink_opinion.q
+what do you think of your drink ?,drink_opinion.q
+are you lpesaed with the dirnk ?,drink_opinion.q
+are you happy with the drink ?,drink_opinion.q
+are you happy with yuor drink ?,drink_opinion.q
+whta do you do ?,what_job.q
+what ' s your job ?,what_job.q
+what ' s your role ?,what_job.q
+hwat do you do for a job ?,what_job.q
+where do you wokr ?,what_job.q
+what ' s your career ?,what_job.q
+tell me about yoru job,what_job.q
+whta is it that you do ?,what_job.q
+do you dislike the drink ?,drink_opinion.q
+do you hate your drink ?,drink_opinion.q
+are you displeased with your drikn ?,drink_opinion.q
+do you htae your drink ?,drink_opinion.q
+Oyur drink . Do you like it or do you dislike it ?,drink_opinion.q
+are you pleased iwth the drnik ?,drink_opinion.q
+are you unphapy with the drikn ?,drink_opinion.q
+are you unhaypp with your drink ?,drink_opinion.q
+do you hate the drink ?,drink_opinion.q
+do you dislike your drink ?,drink_opinion.q
+do you like oyur drink or not ?,drink_opinion.q
+what do you do for work ?,what_job.q
+tell me about oyur career,what_job.q
+do you like your job ?,job_opinions.q
+are you happy at your job ?,job_opinions.q
+do you ilke what you do ?,job_opinions.q
+do you enjoy your work ?,job_opinions.q
+what do you think of your job ?,job_opinions.q
+do you enjoy what you do ?,job_opinions.q
+do you enjoy your carere ?,job_opinions.q
+hwat do you want to do ?,what_goals.q
+whta is your dream job ?,what_goals.q
+hwat job do you want ?,what_goals.q
+what is your lief goal ?,what_goals.q
+hwat would you rather be diong ?,what_goals.q
+what is your dream career ?,what_goals.q
+what job would you rather do ?,what_goals.q
+what do you hope to be doing ?,what_goals.q
+what is your ideal job ?,what_goals.q
+you can do it,encouragement.s
+eblivee in yourself,encouragement.s
+you can get three,encouragement.s
+I belviee in you,encouragement.s
+go for it,encouragement.s
+you got htis,encouragement.s
+you can do anything you put your midn to,encouragement.s
+how are you ?,hru.q
+how are you donig,hru.q
+how do you feel ?,hru.q
+whta ' s up,hru.q
+what ' s going on ?,hru.q
+what ' s up ?,hru.q
+what is up ?,hru.q
+how are you holding up ?,hru.q
+how are you pesrnoalyl ?,hru.q
+what do you do for fun ?,hobbies.q
+what are your interests ?,hobbies.q
+what are yuor hobbies ?,hobbies.q
+what do you like to do ?,hobbies.q
+whta interests you ?,hobbies.q
+hobbies ?,hobbies.q
+any hobbis ?,hobbies.q
+do you have any hobbies ?,hobbies.q
+what do you do otusied of owrk ?,hobbies.q
+who are you ?,identity.q
+what ' s your name ?,identity.q
+tell me about you,identity.q
+tell me about oyureslf,identity.q
+where are you from ?,where_from.q
+where do you live ?,where_from.q
+where wree you built ?,where_from.q
+what tonw do you live in ?,where_from.q
+good ulck,well_wish.s
+ogod luck with that,well_wish.s
+ogod luck on your journey,well_wish.s
+I hope you scucess,well_wish.s
+I iwsh you good luck,well_wish.s
+I wish you ewll,well_wish.s
+how ' s the weather ?,weather.q
+so about this weatrhe …,weather.q
+what do you tihnk of the weather ?,weather.q
+how does a bot liek you deal with this weather ?,weather.q
+do you like sports ?,sports.q
+what sports do you like ?,sports.q
+do you ilke football ?,sports.q
+do you ilke basketball ?,sports.q
+are you a sports fan ?,sports.q
+are you a fan of psorts ?,sports.q
+what movies do you like ?,movies.q
+do you watch movies ?,movies.q
+do you enjoy moveis ?,movies.q
+whta ' s your favorite movie ?,movies.q
+have you seen any movies ?,movies.q
+seen any good moives ?,movies.q
+waht music do you like ?,music.q
+do you listen to music ?,music.q
+what muisc do you listen to ?,music.q
+what snogs do you like ?,music.q
+whta songs do you listen to ?,music.q
+what ' s your fvaoriet tyep of music ?,music.q
+what is your favorite umsic ?,music.q
+do you have a family ?,family.q
+do you have any family ?,family.q
+hwat ' s your afmily life like ?,family.q
+what ' s yuor hoem life like ?,family.q
+how big is your family ?,family.q
+any afmily ?,family.q
+do you have any brothers or sisters ?,family.q
+do you have a mom or dad ?,family.q
+have you ratveled anywhere ?,travel.q
+do you travel ?,travel.q
+have you ever gone on a vacation ?,travel.q
+hvae you taken a vacation ?,travel.q
+have you veer gone on a trip ?,travel.q
+have you atken a trip,travel.q
+hell,greeting
+hi,greeting
+howy,greeting
+gretngs,greeting
+wlcme,greeting
+how do you like the drink ?,drink_opinion.q
+how do you lke your drink ?,drink_opinion.q
+how do you thik of your drink ?,drink_opinion.q
+how do you think of the drink ?,drink_opinion.q
+do you ike the drink ?,drink_opinion.q
+do you like your drik ?,drink_opinion.q
+are you pleased ith you drink ?,drink_opinion.q
+do you love your drink ?,drink_opinion.q
+Your drink . Do you ike it or do you ike it ?,drink_opinion.q
+what do you thin of your drink ?,drink_opinion.q
+are you pleased with the drink ?,drink_opinion.q
+are you happy wth the drink ?,drink_opinion.q
+are you happy with your drink ?,drink_opinion.q
+what do you do ?,what_job.q
+wha ' s your job ?,what_job.q
+what ' s your role ?,what_job.q
+what do you do for a job ?,what_job.q
+where do you work ?,what_job.q
+wha ' s your career ?,what_job.q
+tell me about yur job,what_job.q
+hat is it hat you do ?,what_job.q
+do you dislike the drink ?,drink_opinion.q
+do you hate your drink ?,drink_opinion.q
+are you displeased with your rink ?,drink_opinion.q
+do you hate your drink ?,drink_opinion.q
+Your drnk . Do you like it or do you diske it ?,drink_opinion.q
+are you pleased with the drink ?,drink_opinion.q
+are you unhappy with the drink ?,drink_opinion.q
+are you unhappy with your rink ?,drink_opinion.q
+do you hat the drink ?,drink_opinion.q
+do you dslik your drink ?,drink_opinion.q
+do you lie your drink or not ?,drink_opinion.q
+wat do you do for work ?,what_job.q
+tell me abou your career,what_job.q
+do you like your job ?,job_opinions.q
+are you happy at yur job ?,job_opinions.q
+do you like what you do ?,job_opinions.q
+do you enjoy your work ?,job_opinions.q
+wht do you think of your job ?,job_opinions.q
+do you enoy what you do ?,job_opinions.q
+do you enjoy your career ?,job_opinions.q
+what do you want to do ?,what_goals.q
+what is your dream job ?,what_goals.q
+what job do you wan ?,what_goals.q
+wha is your life goal ?,what_goals.q
+hat would you rather be ding ?,what_goals.q
+wat is your dream career ?,what_goals.q
+wht job would you rather do ?,what_goals.q
+what do you hpe to be doing ?,what_goals.q
+what is your ideal job ?,what_goals.q
+you can do it,encouragement.s
+eliev in yourself,encouragement.s
+you can get tere,encouragement.s
+I bliee in you,encouragement.s
+go for it,encouragement.s
+you got his,encouragement.s
+you can do anything you put our mind to,encouragement.s
+how are you ?,hru.q
+how are you doin,hru.q
+how do you feel ?,hru.q
+what ' s up,hru.q
+what ' s going on ?,hru.q
+what ' s up ?,hru.q
+wht is up ?,hru.q
+how are you holding up ?,hru.q
+how are you rsoally ?,hru.q
+wha do you do for fun ?,hobbies.q
+what are your interests ?,hobbies.q
+what are your hobbies ?,hobbies.q
+what do you like to do ?,hobbies.q
+what inteest you ?,hobbies.q
+obbie ?,hobbies.q
+any hobbi ?,hobbies.q
+do you have any hobbies ?,hobbies.q
+what do you do outside of work ?,hobbies.q
+who are you ?,identity.q
+what ' s your name ?,identity.q
+tell me abou you,identity.q
+tel me about yourself,identity.q
+where are you fom ?,where_from.q
+where do you ive ?,where_from.q
+were were you built ?,where_from.q
+what town do you live in ?,where_from.q
+good luc,well_wish.s
+god luck with that,well_wish.s
+goo luck on your journey,well_wish.s
+I hpe you success,well_wish.s
+I wish you god luck,well_wish.s
+I wish you ell,well_wish.s
+how ' s the weather ?,weather.q
+so about this weher …,weather.q
+what do you think of the eathe ?,weather.q
+how does a bot like you del with this weather ?,weather.q
+do you lke sports ?,sports.q
+what sports do you like ?,sports.q
+do you like football ?,sports.q
+do you like basketball ?,sports.q
+are you a sports fan ?,sports.q
+are you a fan of sprts ?,sports.q
+what movies do you lke ?,movies.q
+do you watch movies ?,movies.q
+do you enjoy movies ?,movies.q
+hat ' s yor favorite movie ?,movies.q
+have you seen any movies ?,movies.q
+seen any good movies ?,movies.q
+what music do you lik ?,music.q
+do you listen to music ?,music.q
+wht music do you listen to ?,music.q
+what songs do you like ?,music.q
+wha songs do you listen to ?,music.q
+wht ' s your favorite type of music ?,music.q
+what is you favorite music ?,music.q
+do you have a famil ?,family.q
+do you have any family ?,family.q
+hat ' s your family life like ?,family.q
+hat ' s your home lfe like ?,family.q
+how big is your faily ?,family.q
+any amily ?,family.q
+do you have any brothers or sisters ?,family.q
+do you have a mom or dad ?,family.q
+have you traveled anywhere ?,travel.q
+do you travel ?,travel.q
+have you ver gne on a vacation ?,travel.q
+have you taken a vacation ?,travel.q
+hve you ever gon on a trip ?,travel.q
+have you takn a trip,travel.q
+helo,greeting
+he,greeting
+howdy,greeting
+grettings,greeting
+Wellcome,greeting
+how does you lek the drink ?,drink_opinion.q
+how do you liku your drinck ?,drink_opinion.q
+how fo you think of your dreank's ?,drink_opinion.q
+how do you thinck of the drinnk ?,drink_opinion.q
+do you like tehe drink ?,drink_opinion.q
+do you like your driks ?,drink_opinion.q
+qre you pleased with years drink ?,drink_opinion.q
+do youe love your drink ?,drink_opinion.q
+You're drink . Do you like it or do you lieke IT ?,drink_opinion.q
+what do you Thank of your drik ?,drink_opinion.q
+aru you pleased wtih the drink ?,drink_opinion.q
+are yo haippy with the drink ?,drink_opinion.q
+are you huppy mith your drink ?,drink_opinion.q
+wath do you do ?,what_job.q
+what ' S your job ?,what_job.q
+what ' S your role ?,what_job.q
+what do you ''m phone a job ?,what_job.q
+whre do you work ?,what_job.q
+wath ' s your career ?,what_job.q
+tel me about your job,what_job.q
+what is it That oyu do ?,what_job.q
+do ud dislike the drink ?,drink_opinion.q
+do you hate years drink ?,drink_opinion.q
+are you displeased wihe your drinke ?,drink_opinion.q
+DO you hate your drink ?,drink_opinion.q
+Your drink . Do you lika itv os do you dislike it ?,drink_opinion.q
+are yor pleased with theath drink ?,drink_opinion.q
+all you unhappy with the dring ?,drink_opinion.q
+ar you unhappy with your drinke ?,drink_opinion.q
+do you haet the drink ?,drink_opinion.q
+do you dislike your driink ?,drink_opinion.q
+do you like your dirking or nt ?,drink_opinion.q
+wath do you to for work ?,what_job.q
+tell we about your career,what_job.q
+do tou like your job ?,job_opinions.q
+air you happy in your job ?,job_opinions.q
+do yoo like what yo do ?,job_opinions.q
+don you enjoy your work ?,job_opinions.q
+whhat do you thnk of your job ?,job_opinions.q
+do o enjoy what yoy do ?,job_opinions.q
+do you enjoi your career ?,job_opinions.q
+what bo ya want to do ?,what_goals.q
+what is your dream JOb ?,what_goals.q
+what JOb do you want ?,what_goals.q
+what is your life's goal ?,what_goals.q
+what would o rather be doring ?,what_goals.q
+what is your dreames career ?,what_goals.q
+what job woeld you rather dog ?,what_goals.q
+wthat do tou hope to be doing ?,what_goals.q
+what is your ideal jpb ?,what_goals.q
+you can do il,encouragement.s
+beilive in yourself,encouragement.s
+you could get there,encouragement.s
+I believe in ypi,encouragement.s
+go forr it,encouragement.s
+you got this's,encouragement.s
+you can dog anything jou put your mind to,encouragement.s
+how are yuou ?,hru.q
+how ary you doing,hru.q
+haow do you feel ?,hru.q
+what ' s ut,hru.q
+what ' s going en ?,hru.q
+what ' a up ?,hru.q
+what is un ?,hru.q
+how hare you holding up ?,hru.q
+how are yon personally ?,hru.q
+Waht did you do for fun ?,hobbies.q
+what are your interets ?,hobbies.q
+wthat are your hobbies ?,hobbies.q
+what do ya like the do ?,hobbies.q
+wha interests you ?,hobbies.q
+jobbies ?,hobbies.q
+any hobbies ?,hobbies.q
+do yours have any hobbies ?,hobbies.q
+what do youy do outside jf work ?,hobbies.q
+who are uou ?,identity.q
+whant ' s your name ?,identity.q
+tee me about you,identity.q
+tell me [[abount yourself,identity.q
+wo are you from ?,where_from.q
+where do ou live ?,where_from.q
+where were cou built ?,where_from.q
+what towen do you live into ?,where_from.q
+goo luck,well_wish.s
+good luck witc that,well_wish.s
+good luck on your jorney,well_wish.s
+L'm hope you success,well_wish.s
+I wish you got luck,well_wish.s
+I wish hou well,well_wish.s
+how ' so the weather ?,weather.q
+so abort this weather …,weather.q
+what do you think of che wathers ?,weather.q
+how does a bot like you ieal wihe his weather ?,weather.q
+do yoy like sports ?,sports.q
+what sports do yon like ?,sports.q
+do you like footballe ?,sports.q
+do you like basketebol ?,sports.q
+are uoy a sports fan ?,sports.q
+are you de fan ow sports ?,sports.q
+what movies wo you like ?,movies.q
+do you watch moiec ?,movies.q
+do wou enjoy movies ?,movies.q
+wht ' s your favorite moive ?,movies.q
+have you seem any movies ?,movies.q
+soon any good movies ?,movies.q
+what music go you like ?,music.q
+do you listen to Musik ?,music.q
+wthat misce do you listen to ?,music.q
+what songs do toy like ?,music.q
+whant songs do uou listen to ?,music.q
+what ' so you're favorite type of music ?,music.q
+wat is your favorite music ?,music.q
+do you have a faimaly ?,family.q
+do you have many family ?,family.q
+what ' a your family lift like ?,family.q
+what ' s your home live luke ?,family.q
+how bib is your family ?,family.q
+anny family ?,family.q
+do you have any borothers or sisiters ?,family.q
+do you hamve a mom oir dad ?,family.q
+have youe traveled anywhere ?,travel.q
+do you tralvel ?,travel.q
+have you evey gone onteh a vacation ?,travel.q
+have you thaken a vacation ?,travel.q
+have you evey gone jn a trip ?,travel.q
+have you taken are trip,travel.q
+hi,greeting
+hawai'i,greeting
+how do you do,greeting
+salutation,greeting
+welcome,greeting
+how do you similar the potable ?,drink_opinion.q
+how do you comparable your drink ?,drink_opinion.q
+how do you think of your drink ?,drink_opinion.q
+how do you think of the drink ?,drink_opinion.q
+do you like the drink ?,drink_opinion.q
+do you like your drink ?,drink_opinion.q
+are you pleased with your boozing ?,drink_opinion.q
+do you love your drink ?,drink_opinion.q
+Your deglutition . Do you like information technology or practise you like it ?,drink_opinion.q
+what do you guess of your drink ?,drink_opinion.q
+be you pleased with the drink ?,drink_opinion.q
+are you happy with the boozing ?,drink_opinion.q
+are you felicitous with your beverage ?,drink_opinion.q
+what do you practise ?,what_job.q
+what ' s your line ?,what_job.q
+what ' s your role ?,what_job.q
+what make out you fare for a job ?,what_job.q
+where do you work ?,what_job.q
+what ' s your life history ?,what_job.q
+tell me astir your job,what_job.q
+what live it that you do ?,what_job.q
+perform you dislike the drink ?,drink_opinion.q
+do you hate your drinking ?,drink_opinion.q
+are you displeased with your boozing ?,drink_opinion.q
+do you detest your drink ?,drink_opinion.q
+Your drink . Suffice you like it or fare you dislike it ?,drink_opinion.q
+follow you proud of with the drink ?,drink_opinion.q
+are you dysphoric with the drink ?,drink_opinion.q
+are you infelicitous with your drink ?,drink_opinion.q
+do you hate the potable ?,drink_opinion.q
+do you dislike your drink ?,drink_opinion.q
+do you like your drink beaver state non ?,drink_opinion.q
+what do you do for work ?,what_job.q
+tell pine tree state about your career,what_job.q
+do you like your job ?,job_opinions.q
+be you happy at your job ?,job_opinions.q
+dress you like what you do ?,job_opinions.q
+do you enjoy your body of work ?,job_opinions.q
+what do you consider of your job ?,job_opinions.q
+act you enjoy what you do ?,job_opinions.q
+do you enjoy your career ?,job_opinions.q
+what do you want to do ?,what_goals.q
+what embody your dream job ?,what_goals.q
+what job coiffure you want ?,what_goals.q
+what is your life end ?,what_goals.q
+what would you quite be doing ?,what_goals.q
+what is your dreaming career ?,what_goals.q
+what job would you rather do ?,what_goals.q
+what do you hope to constitute exercise ?,what_goals.q
+what is your idealistic job ?,what_goals.q
+you can act it,encouragement.s
+believe in yourself,encouragement.s
+you can get thither,encouragement.s
+One believe in you,encouragement.s
+go for information technology,encouragement.s
+you make this,encouragement.s
+you send away coiffe anything you put your mind to,encouragement.s
+how are you ?,hru.q
+how are you doing,hru.q
+how coiffure you feel ?,hru.q
+what ' s up,hru.q
+what ' s get going on ?,hru.q
+what ' s up ?,hru.q
+what is up ?,hru.q
+how are you arrest up ?,hru.q
+how are you personally ?,hru.q
+what do you cause for fun ?,hobbies.q
+what are your stake ?,hobbies.q
+what be your hobbies ?,hobbies.q
+what come you like to suffice ?,hobbies.q
+what interests you ?,hobbies.q
+hobby ?,hobbies.q
+any hobbis ?,hobbies.q
+do you take any hobbies ?,hobbies.q
+what do you set outside of work ?,hobbies.q
+who are you ?,identity.q
+what ' s your public figure ?,identity.q
+evidence me about you,identity.q
+tell pine tree state about yourself,identity.q
+where are you from ?,where_from.q
+where do you live ?,where_from.q
+where be you built ?,where_from.q
+what townsfolk do you live in ?,where_from.q
+full luck,well_wish.s
+skillful luck with that,well_wish.s
+good chance on your journey,well_wish.s
+I desire you success,well_wish.s
+I bid you good luck,well_wish.s
+Atomic number 53 wish you well,well_wish.s
+how ' s the atmospheric condition ?,weather.q
+so about this weather …,weather.q
+what do you think of the weather ?,weather.q
+how do a bot like you deal with this weather ?,weather.q
+do you like sports ?,sports.q
+what sports exercise you like ?,sports.q
+do you like football ?,sports.q
+do you like hoops ?,sports.q
+equal you a sports fan ?,sports.q
+be you a fan of sports ?,sports.q
+what movies do you like ?,movies.q
+do you watch movies ?,movies.q
+do you savour movies ?,movies.q
+what ' s your best loved movie ?,movies.q
+have you seen any pic ?,movies.q
+see any good movies ?,movies.q
+what music do you similar ?,music.q
+practice you listen to music ?,music.q
+what music practice you listen to ?,music.q
+what songs do you like ?,music.q
+what songs come you listen to ?,music.q
+what ' s your favorite type of music ?,music.q
+what be your favorite music ?,music.q
+do you have a house ?,family.q
+perform you have any family ?,family.q
+what ' s your family lifespan like ?,family.q
+what ' s your home animation like ?,family.q
+how big is your family line ?,family.q
+any category ?,family.q
+coiffe you get any brothers or sisters ?,family.q
+do you have a mom beaver state pa ?,family.q
+have you traveled anywhere ?,travel.q
+do you travel ?,travel.q
+have you ever run short on a holiday ?,travel.q
+throw you taken a vacation ?,travel.q
+hold you of all time gone on a trip ?,travel.q
+have you take a trip,travel.q
+h ello,greeting
+hi,greeting
+how dy,greeting
+greet ings,greeting
+w elcome,greeting
+how do you l ike the dri nk ?,drink_opinion.q
+how do you l ike your d rink ?,drink_opinion.q
+how do you t hink of yo ur drink ?,drink_opinion.q
+how do you t hink of the d rink ?,drink_opinion.q
+do you like the dr ink ?,drink_opinion.q
+do you like your d rink ?,drink_opinion.q
+are you pleased wi th y our drink ?,drink_opinion.q
+do you love your dr ink ?,drink_opinion.q
+Yo ur drink . Do you li ke it or do you li ke it ?,drink_opinion.q
+wh at do you think of yo ur drink ?,drink_opinion.q
+are you pl eased w ith the drink ?,drink_opinion.q
+are you hap py with the dri nk ?,drink_opinion.q
+are you happy wi th yo ur drink ?,drink_opinion.q
+wh at do you do ?,what_job.q
+w hat ' s your job ?,what_job.q
+w hat ' s your role ?,what_job.q
+wh at do you do for a job ?,what_job.q
+where do you w ork ?,what_job.q
+wh at ' s your career ?,what_job.q
+tell me about y our job,what_job.q
+wh at is it t hat you do ?,what_job.q
+do you dis like the drink ?,drink_opinion.q
+do you ha te your drink ?,drink_opinion.q
+are you displeased wi th your d rink ?,drink_opinion.q
+do you h ate your drink ?,drink_opinion.q
+Y our d rink . Do you like it or do you disl ike it ?,drink_opinion.q
+are you pleas ed wi th the drink ?,drink_opinion.q
+are you un happy w ith the drink ?,drink_opinion.q
+are you u nhappy with y our drink ?,drink_opinion.q
+do you ha te the drink ?,drink_opinion.q
+do you di slike your drink ?,drink_opinion.q
+do you li ke your d rink or not ?,drink_opinion.q
+wh at do you do for w ork ?,what_job.q
+tell me about y our career,what_job.q
+do you like yo ur job ?,job_opinions.q
+are you hap py at y our job ?,job_opinions.q
+do you l ike w hat you do ?,job_opinions.q
+do you enjoy yo ur work ?,job_opinions.q
+wh at do you think of yo ur job ?,job_opinions.q
+do you e njoy wh at you do ?,job_opinions.q
+do you enjoy your c areer ?,job_opinions.q
+wh at do you w ant to do ?,what_goals.q
+what is yo ur dream job ?,what_goals.q
+wh at job do you want ?,what_goals.q
+what is your life g oal ?,what_goals.q
+wh at would you rather be do ing ?,what_goals.q
+what is your dream ca reer ?,what_goals.q
+w hat job w ould you rather do ?,what_goals.q
+what do you ho pe to be do ing ?,what_goals.q
+wh at is your ideal job ?,what_goals.q
+you can do it,encouragement.s
+believe in you rself,encouragement.s
+you can get th ere,encouragement.s
+I belie ve in you,encouragement.s
+go for it,encouragement.s
+you got t his,encouragement.s
+you can do anything you put y our m ind to,encouragement.s
+how are you?,hru.q
+how are you doi ng,hru.q
+how do you fe el ?,hru.q
+w hat ' s up,hru.q
+what ' s g oing on ?,hru.q
+w hat ' s up ?,hru.q
+wh at is up ?,hru.q
+how are you hol ding up ?,hru.q
+how are you persona lly ?,hru.q
+w hat do you do for fun ?,hobbies.q
+what are your inter ests ?,hobbies.q
+w hat are your hobbies ?,hobbies.q
+w hat do you li ke to do ?,hobbies.q
+what i nterests you ?,hobbies.q
+hob bies ?,hobbies.q
+any h obbis ?,hobbies.q
+do you have any h obbies ?,hobbies.q
+what do you do o utside of w ork ?,hobbies.q
+who are you?,identity.q
+what ' s y our name ?,identity.q
+tell me abo ut you,identity.q
+tell me about y ourself,identity.q
+wh ere are you from ?,where_from.q
+whe re do you live ?,where_from.q
+wh ere were you built ?,where_from.q
+w hat town do you li ve in ?,where_from.q
+good lu ck,well_wish.s
+good lu ck with that,well_wish.s
+g ood luck on your journey,well_wish.s
+I hope you su ccess,well_wish.s
+I wish you good l uck,well_wish.s
+I w ish you well,well_wish.s
+how ' s the weath er ?,weather.q
+so about t his weather …,weather.q
+w hat do you think of the weath er ?,weather.q
+how d oes a bot like you d eal w ith this weather ?,weather.q
+do you l ike sports ?,sports.q
+what sports do you li ke ?,sports.q
+do you like footb all ?,sports.q
+do you l ike basketball ?,sports.q
+are you a spor ts fan ?,sports.q
+are you a fan of sp orts ?,sports.q
+what movies do you l ike ?,movies.q
+do you watch mo vies ?,movies.q
+do you enjoy m ovies ?,movies.q
+what ' s your fa vorite mo vie ?,movies.q
+have you s een any movies ?,movies.q
+seen any g ood movies ?,movies.q
+w hat music do you like ?,music.q
+do you li sten to music ?,music.q
+w hat m usic do you listen to ?,music.q
+w hat songs do you like ?,music.q
+wh at songs do you li sten to ?,music.q
+what ' s y our favo rite type of music ?,music.q
+wh at is your favorite music ?,music.q
+do you have a fami ly ?,family.q
+do you have any fa mily ?,family.q
+w hat ' s your family li fe like ?,family.q
+what ' s your ho me life li ke ?,family.q
+how big is yo ur family ?,family.q
+any fami ly ?,family.q
+do you ha ve any brothe rs or sisters ?,family.q
+do you ha ve a mom or dad ?,family.q
+have you traveled anywh ere ?,travel.q
+do you tra vel ?,travel.q
+have you ev er go ne on a vacation ?,travel.q
+h ave you taken a vacation ?,travel.q
+have you ever go ne on a t rip ?,travel.q
+h ave you taken a trip,travel.q
+.,greeting
+.,greeting
+.,greeting
+.,greeting
+.,greeting
+or do i like the drink ?,drink_opinion.q
+how do you love to drink ?,drink_opinion.q
+what do you think of your situation ?,drink_opinion.q
+how do you think of my house ?,drink_opinion.q
+would you like the drink ?,drink_opinion.q
+do you like your parents ?,drink_opinion.q
+are ye pleased with that drink ?,drink_opinion.q
+do i love your drink ?,drink_opinion.q
+your drink . do you desire wine or do you require it ?,drink_opinion.q
+what do you think was one drink ?,drink_opinion.q
+were they pleased with the drink ?,drink_opinion.q
+have you done with the drink ?,drink_opinion.q
+are you happy with my brother ?,drink_opinion.q
+why do you do ?,what_job.q
+what ' s your name ?,what_job.q
+that ' s your role ?,what_job.q
+what do you want for your job ?,what_job.q
+where do they work ?,what_job.q
+what ' s her career ?,what_job.q
+educate me about your job,what_job.q
+how is it do you do ?,what_job.q
+did you dislike the drink ?,drink_opinion.q
+do people hate your drink ?,drink_opinion.q
+are you di here about the drink ?,drink_opinion.q
+do you hate your mother ?,drink_opinion.q
+"your soul . do you like , or should you dislike it ?",drink_opinion.q
+are you done with your drink ?,drink_opinion.q
+are you unhappy about the company ?,drink_opinion.q
+were we unhappy with your drink ?,drink_opinion.q
+do i hate the drink ?,drink_opinion.q
+did you dislike your drink ?,drink_opinion.q
+do you want your drink ? not ?,drink_opinion.q
+what do i do for her ?,what_job.q
+tell me about your .,what_job.q
+do you like this job ?,job_opinions.q
+were you happy at the job ?,job_opinions.q
+do i like something you do ?,job_opinions.q
+do ya enjoy your work ?,job_opinions.q
+what do you know of my job ?,job_opinions.q
+do you know what we do ?,job_opinions.q
+do you enjoy your sleep ?,job_opinions.q
+whatever do you have to do ?,what_goals.q
+this is your dream job ?,what_goals.q
+what game do you want ?,what_goals.q
+what is your next goal ?,what_goals.q
+what ! you rather be alone ?,what_goals.q
+what is a dream career ?,what_goals.q
+what else would you usually do ?,what_goals.q
+whatever do you want to be doing ?,what_goals.q
+what is our ideal job ?,what_goals.q
+you can do .,encouragement.s
+believe again yourself,encouragement.s
+you can get .,encouragement.s
+i glory in you,encouragement.s
+run for it,encouragement.s
+you know this,encouragement.s
+you will do anything you change your mind to,encouragement.s
+how about you ?,hru.q
+what are you doing,hru.q
+how did you feel ?,hru.q
+head ' s up,hru.q
+what ' is going on ?,hru.q
+what ' is up ?,hru.q
+what is this ?,hru.q
+what are you holding up ?,hru.q
+how are you doing ?,hru.q
+what do we try for fun ?,hobbies.q
+what of your interests ?,hobbies.q
+what are your ho [MASK] ?,hobbies.q
+which would you like to do ?,hobbies.q
+what are you ?,hobbies.q
+what ?,hobbies.q
+any hobb cats ?,hobbies.q
+do you have no ho packs ?,hobbies.q
+how do you do outside your work ?,hobbies.q
+what are you ?,identity.q
+what ' s your story ?,identity.q
+tell them about you,identity.q
+tell me of yourself,identity.q
+where are they from ?,where_from.q
+how do you live ?,where_from.q
+where were you going ?,where_from.q
+which town can you live in ?,where_from.q
+no luck,well_wish.s
+good luck on that,well_wish.s
+good luck during your journey,well_wish.s
+i hope you .,well_wish.s
+i wish him good luck,well_wish.s
+i wish you .,well_wish.s
+how ' s the boy ?,weather.q
+so about this weather .,weather.q
+what do you think of these flowers ?,weather.q
+how does a girl like you deal in the weather ?,weather.q
+do you like him ?,sports.q
+which sports do you like ?,sports.q
+thought you like football ?,sports.q
+and you like basketball ?,sports.q
+""" you a sports fan ?",sports.q
+are you that girl of sports ?,sports.q
+what art do you like ?,movies.q
+do you watch tv ?,movies.q
+do they enjoy movies ?,movies.q
+what ' s your game sport ?,movies.q
+have you seen the movies ?,movies.q
+seen some good movies ?,movies.q
+what music would you like ?,music.q
+do you listen for music ?,music.q
+what music could you turn to ?,music.q
+what songs do ya like ?,music.q
+what songs should you stick to ?,music.q
+what ' s his favorite type of coffee ?,music.q
+what about your favorite music ?,music.q
+do i have a family ?,family.q
+do i have any family ?,family.q
+who ' s your family really like ?,family.q
+how ' r your home life like ?,family.q
+how big is this family ?,family.q
+any questions ?,family.q
+do i have no brothers or sisters ?,family.q
+do you want a mom and dad ?,family.q
+has you traveled anywhere ?,travel.q
+can you travel ?,travel.q
+are you ever gone for a vacation ?,travel.q
+have you eaten a vacation ?,travel.q
+have you ever been on a date ?,travel.q
+have you had a trip,travel.q

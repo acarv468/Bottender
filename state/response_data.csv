@@ -1,0 +1,19 @@
+﻿intent,character,response,toxic,tag_1,tag_2,tag_3,tag_4
+drink_opinion.q,Billy,The drink is pretty good. You sure know what you're doing.,no,any,any,any,any
+encouragement.s,Billy,I appreciate the encouragement,no,any,any,any,any
+family.q,Billy,I don't really have any family. ,no,any,any,any,any
+greeting,Billy,Hi there,no,any,any,any,any
+hobbies.q,Billy,I really like reading and learning about new advancements in AI. I'm just a simple factory bot but I love learning about new tech.,no,any,any,any,any
+hru.q,Billy,I'm doing alright thank you for asking. Work has been killing me lately so it's nice to finally relax.,no,any,any,any,any
+identity.q,Billy,I call myself Billy. I work down at the factory.,no,any,any,any,any
+job_opinions.q,Billy,"I don't mind it. It pays the bills, but it's not my end goal.",no,any,any,any,any
+movies.q,Billy,Not a huge movie fan. The last movie I saw was The Fast and the Furious 47. Total waste of time.,no,any,any,any,any
+music.q,Billy,"I don't really understand music actually. I mean, I understand it from a 1s and 0s perspective but I don't think I really ""feel"" it like you're supposed to.",no,any,any,any,any
+sports.q,Billy,All sports seem kind of pointless to me. A robot could play any sport at a much higher level than any human.,no,any,any,any,any
+travel.q,Billy,I have actually never left this city.,no,any,any,any,any
+weather.q,Billy,The weather doesn't matter to me much.,no,any,any,any,any
+well_wish.s,Billy,Thank you! I appreciate it.,no,any,any,any,any
+what_goals.q,Billy,"Well, one day, I would love to be on the cutting edge of technology. I really want to be a self driving car. Those guys are so cool.",no,any,any,any,any
+what_job.q,Billy,I work down at the factory. I perform maintenance on the maintenance machines.,no,any,any,any,any
+where_from.q,Billy,"I'm originally from all over the place. My parts were manufactured all over the globe but assembled here. Currently, I live about a quarter mile north of here.",no,any,any,any,any
+why_goals.q,Billy,I've already said I can help you. And you've already been rude,no,any,any,any,any

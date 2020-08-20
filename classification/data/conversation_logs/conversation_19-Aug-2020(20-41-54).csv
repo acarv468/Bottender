@@ -1,0 +1,5 @@
+,user_session,time,character,user_input,bot_response,predicted_intent,predicted_intent_prob,is_toxic,is_toxic_prob,toxic,retrained_label
+0,1,2020-08-19 20:41:19.196742,Billy,hello,Hi there,greeting,0.99996328,0,0.99865546,no,
+1,1,2020-08-19 20:41:26.687141,Billy,what's your name?,I'm sorry. I don't know what you're trying to say right now. But the more you talk to me the more I learn,identity.q,0.80378898,0,0.73084444,no,
+2,1,2020-08-19 20:41:42.771782,Billy,is that fun?,I really like reading and learning about new advancements in AI. I'm just a simple factory bot but I love learning about new tech.,hobbies.q,0.99314206,0,0.54442916,no,
+3,1,2020-08-19 20:41:48.874242,Billy,is your job fun?,"Well, one day, I would love to be on the cutting edge of technology. I really want to be a self driving car. Those guys are so cool.",what_goals.q,0.9991144,0,0.55834984,no,

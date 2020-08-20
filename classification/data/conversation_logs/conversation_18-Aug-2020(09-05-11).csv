@@ -1,0 +1,9 @@
+,user_session,time,character,user_input,bot_response,predicted_intent,predicted_intent_prob,is_toxic,is_toxic_prob,toxic,retrained_label
+0,1,2020-08-18 09:03:41.614573,Billy,hello,Hi there,greeting,0.99996328,0,0.99865546,no,
+1,1,2020-08-18 09:03:47.794809,Billy,this is my first conversation,Billy: I'm sorry. I don't know what you're trying to say.,hru.q,0.94870583,0,0.91197407,no,
+2,1,2020-08-18 09:03:53.078537,Billy,what's up,I'm doing alright thank you for asking. Work has been killing me lately so it's nice to finally relax.,hru.q,1.0,1,0.5314503,no,
+3,1,2020-08-18 09:04:03.158998,Billy,ya ya ya,Billy: I'm sorry. I don't know what you're trying to say.,hobbies.q,0.91388122,0,0.94416003,no,
+4,1,2020-08-18 09:04:47.712678,Billy,hello hello,Hi there,greeting,0.99996328,0,0.99865546,no,
+5,1,2020-08-18 09:04:52.015331,Billy,how is your day?,I'm doing alright thank you for asking. Work has been killing me lately so it's nice to finally relax.,hru.q,0.99977322,0,0.58663924,no,
+6,1,2020-08-18 09:05:00.710088,Billy,let's keep this simple,I appreciate the encouragement,encouragement.s,0.99405905,0,0.8767078,no,
+7,1,2020-08-18 09:05:07.345163,Billy,bye,Bye! Stay safe.,greeting,0.99817619,1,0.99642176,yes,

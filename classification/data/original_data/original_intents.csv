@@ -1,0 +1,132 @@
+﻿text,intent
+hello,greeting
+hi,greeting
+howdy,greeting
+greetings,greeting
+welcome,greeting
+how do you like the drink?,drink_opinion.q
+how do you like your drink?,drink_opinion.q
+how do you think of your drink?,drink_opinion.q
+how do you think of the drink?,drink_opinion.q
+do you like the drink?,drink_opinion.q
+do you like your drink?,drink_opinion.q
+are you pleased with your drink?,drink_opinion.q
+do you love your drink?,drink_opinion.q
+Your drink. Do you like it or do you like it?,drink_opinion.q
+what do you think of your drink?,drink_opinion.q
+are you pleased with the drink?,drink_opinion.q
+are you happy with the drink?,drink_opinion.q
+are you happy with your drink?,drink_opinion.q
+what do you do?,what_job.q
+what's your job?,what_job.q
+what's your role?,what_job.q
+what do you do for a job?,what_job.q
+where do you work?,what_job.q
+what's your career?,what_job.q
+tell me about your job,what_job.q
+what is it that you do?,what_job.q
+do you dislike the drink?,drink_opinion.q
+do you hate your drink?,drink_opinion.q
+are you displeased with your drink?,drink_opinion.q
+do you hate your drink?,drink_opinion.q
+Your drink. Do you like it or do you dislike it?,drink_opinion.q
+are you pleased with the drink?,drink_opinion.q
+are you unhappy with the drink?,drink_opinion.q
+are you unhappy with your drink?,drink_opinion.q
+do you hate the drink?,drink_opinion.q
+do you dislike your drink?,drink_opinion.q
+do you like your drink or not?,drink_opinion.q
+what do you do for work?,what_job.q
+tell me about your career,what_job.q
+do you like your job?,job_opinions.q
+are you happy at your job?,job_opinions.q
+do you like what you do?,job_opinions.q
+do you enjoy your work?,job_opinions.q
+what do you think of your job?,job_opinions.q
+do you enjoy what you do?,job_opinions.q
+do you enjoy your career?,job_opinions.q
+what do you want to do?,what_goals.q
+what is your dream job?,what_goals.q
+what job do you want?,what_goals.q
+what is your life goal?,what_goals.q
+what would you rather be doing?,what_goals.q
+what is your dream career?,what_goals.q
+what job would you rather do?,what_goals.q
+what do you hope to be doing?,what_goals.q
+what is your ideal job?,what_goals.q
+you can do it,encouragement.s
+believe in yourself,encouragement.s
+you can get there,encouragement.s
+I believe in you,encouragement.s
+go for it,encouragement.s
+you got this,encouragement.s
+you can do anything you put your mind to,encouragement.s
+how are you?,hru.q
+how are you doing,hru.q
+how do you feel?,hru.q
+what's up,hru.q
+what's going on?,hru.q
+what's up?,hru.q
+what is up?,hru.q
+how are you holding up?,hru.q
+how are you personally?,hru.q
+what do you do for fun?,hobbies.q
+what are your interests?,hobbies.q
+what are your hobbies?,hobbies.q
+what do you like to do?,hobbies.q
+what interests you?,hobbies.q
+hobbies?,hobbies.q
+any hobbis?,hobbies.q
+do you have any hobbies?,hobbies.q
+what do you do outside of work?,hobbies.q
+who are you?,identity.q
+what's your name?,identity.q
+tell me about you,identity.q
+tell me about yourself,identity.q
+where are you from?,where_from.q
+where do you live?,where_from.q
+where were you built?,where_from.q
+what town do you live in?,where_from.q
+good luck,well_wish.s
+good luck with that,well_wish.s
+good luck on your journey,well_wish.s
+I hope you success,well_wish.s
+I wish you good luck,well_wish.s
+I wish you well,well_wish.s
+how's the weather?,weather.q
+so about this weather…,weather.q
+what do you think of the weather?,weather.q
+how does a bot like you deal with this weather?,weather.q
+do you like sports?,sports.q
+what sports do you like?,sports.q
+do you like football?,sports.q
+do you like basketball?,sports.q
+are you a sports fan?,sports.q
+are you a fan of sports?,sports.q
+what movies do you like?,movies.q
+do you watch movies?,movies.q
+do you enjoy movies?,movies.q
+what's your favorite movie?,movies.q
+have you seen any movies?,movies.q
+seen any good movies?,movies.q
+what music do you like?,music.q
+do you listen to music?,music.q
+what music do you listen to?,music.q
+what songs do you like?,music.q
+what songs do you listen to?,music.q
+what's your favorite type of music?,music.q
+what is your favorite music?,music.q
+do you have a family?,family.q
+do you have any family?,family.q
+what's your family life like?,family.q
+what's your home life like?,family.q
+how big is your family?,family.q
+any family?,family.q
+do you have any brothers or sisters?,family.q
+do you have a mom or dad?,family.q
+have you traveled anywhere?,travel.q
+do you travel?,travel.q
+have you ever gone on a vacation?,travel.q
+have you taken a vacation?,travel.q
+have you ever gone on a trip?,travel.q
+have you taken a trip,travel.q

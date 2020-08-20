@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+  <h1 class="jumbotron text-center">Bottender</h1>
+  <div>
+    <div id="chatbox">
+      <p class="botText"><span>
+        Your first customer is a bot named Billy. He meanders over to the bar and orders an Oiltini.
+        You serve him and he begins to drink. Talk to him below. Type "bye" to leave the conversation. Click "reset" to start over.
+      </span></p>
+    </div>
+    <div id="userInput">
+      <input id="textInput" type="text" name="msg" placeholder="Message">
+      <input id="buttonInput" type="submit" value="Send">
+      <input id="reset" type="submit" value="Reset">
+    </div>
+    <script>
+      function getBotResponse() {
+        var rawText = $("#textInput").val();
+        var userHtml = '<p class="userText"><span>' + rawText + '</span></p>';
+        $("#textInput").val("");
+        $("#chatbox").append(userHtml);
+        document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+        $.get("/get", { msg: rawText }).done(function (data) {
+          var botHtml = '<p class="botText"><span>' + data + '</span></p>';
+          $("#chatbox").append(botHtml);
+          document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+        });
+      }
+      $("#textInput").keypress(function (e) {
+        if (e.which == 13) {
+          getBotResponse();
+        }
+      });
+      $("#buttonInput").click(function () {
+        getBotResponse();
+      })
+      $("#reset").click(function reset() {
+        window.location.reload(); {
+
+        }
+      })
+      $(function () {
+        $('#reset').bind('click', function () {
+          $.getJSON('/reset',
+            function (data) {
+              //do nothing
+            });
+          return false;
+        });
+      });
+    </script>
+  </div>
+</body>
+
+</html>
