@@ -1,0 +1,8 @@
+,user_session,time,character,user_input,bot_response,predicted_intent,predicted_intent_prob,is_toxic,is_toxic_prob,toxic,retrained_label
+0,1,2020-08-20 18:09:31.305550,Billy,hello,Hi there,greeting,0.99996328,0,0.99865546,no,
+1,1,2020-08-20 18:09:34.283326,Billy,how are you?,I'm doing alright thank you for asking. Work has been killing me lately so it's nice to finally relax.,hru.q,0.99997862,0,0.83643619,no,
+2,1,2020-08-20 18:09:43.465779,Billy,what do you do for work?,I work down at the factory. I perform maintenance on the maintenance machines.,what_job.q,0.99998691,0,0.80758476,no,
+3,1,2020-08-20 18:09:50.837194,Billy,do you like your job?,"I don't mind it. It pays the bills, but it's not my end goal.",job_opinions.q,0.99999842,1,0.67133599,no,
+4,1,2020-08-20 18:09:57.134765,Billy,what is your end goal?,"Well, one day, I would love to be on the cutting edge of technology. I really want to be a self driving car. Those guys are so cool.",what_goals.q,0.99998298,1,0.8064821,no,
+5,1,2020-08-20 18:10:02.847863,Billy,good luck!,Thank you! I appreciate it.,well_wish.s,1.0,0,0.64871487,no,
+6,1,2020-08-20 18:10:23.938769,Billy,bye,Bye! Stay safe.,greeting,0.99817619,1,0.99642176,yes,

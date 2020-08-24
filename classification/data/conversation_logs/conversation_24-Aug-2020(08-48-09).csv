@@ -1,0 +1,4 @@
+,user_session,time,character,user_input,bot_response,predicted_intent,predicted_intent_prob,is_toxic,is_toxic_prob,toxic,retrained_label
+0,2,2020-08-24 08:47:58.765672,Billy,thanks,Hi there,greeting,0.99817619,0,0.99999999,no,
+1,2,2020-08-24 08:48:02.623881,Billy,hello,Hi there,greeting,0.99996328,0,0.99865546,no,
+2,2,2020-08-24 08:48:06.923922,Billy,what's up?,I'm doing alright thank you for asking. Work has been killing me lately so it's nice to finally relax.,hru.q,1.0,1,0.5314503,no,

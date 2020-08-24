@@ -56,7 +56,7 @@ def intro():
 @app.route("/game")
 def game():
     print('You have reached the game')
-    # print(track.STATE)
+    # print(state)
     # print(track.CHARACTER)
     return render_template("index.html")
 
@@ -82,9 +82,9 @@ def reset():
     print(timestamp_str)
     conversation_log_df.to_csv('classification/data/conversation_logs/conversation_' + timestamp_str + '.csv')
 
-    response_df = pd.read_csv('reference_data/response_data.csv')
-    state_tracking_df = pd.read_csv('reference_data/state_tracking_with_tips.csv')
-    conversation_log_df = pd.read_csv('reference_data/conversation_log_retrain.csv')
+    response_df = pd.read_csv('state/response_data.csv')
+    state_tracking_df = pd.read_csv('state/state_tracking_with_tips.csv')
+    conversation_log_df = pd.read_csv('state/conversation_log_retrain.csv')
     character = "Billy"
     state = 'conversation'
     session_number = 1 + session_number
@@ -96,6 +96,7 @@ def reset():
     #     session_number = session_number + x[0]
     
     print(session_number)
+    print(state)
 
     print ("reset")
     return "nothing"
@@ -110,6 +111,8 @@ def get_bot_response():
     global character
     global state
     global session_number
+
+    print(state)
 
     # checking tags for what's already been said
     state_tags = list(state_tracking_df.loc[(state_tracking_df['times_predicted'] > 0), 'tag_name'])
