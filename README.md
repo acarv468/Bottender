@@ -14,8 +14,13 @@ The project currently relies on 2 different classification models for 2 differen
 2) toxic classification: this project will also recognize toxic language entered by the user and the characters will respond accordingly.
 
 ## Installation
-This project is equipped with a Dockerfile. Clone this repository and follow the guide to spin up a Docker Container
-https://docs.docker.com/get-started/part2/
+This project is equipped with a Dockerfile. Clone this repository and follow [this guide](https://docs.docker.com/get-started/part2/) to spin up a Docker Container. To create the image and to run it:
+```
+docker build -t bottender .
+docker run -dp 5001:5001 bottender
+```
+
+And open `http://localhost:5001/`.
 
 ## API Reference
 You can access the predictive features of this project via API. Simply post the string you want to predict as "user_submission" and the API will return the predicted intent, predicted intent probability, predicted toxic, and predicted toxic probability. Here is an example:

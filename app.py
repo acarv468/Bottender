@@ -1,14 +1,12 @@
-from flask import Flask, render_template, request, Response, jsonify
-from predictions import *
-import pandas as pd
-import time
-from datetime import datetime
-import traceback
 import json
-from datetime import datetime
-from numpy import random
-import subprocess
+import time
+import traceback
 # import sqlalchemy
+import pandas as pd
+from numpy import random
+from datetime import datetime
+from predictions import *
+from flask import Flask, render_template, request, Response, jsonify
 
 app = Flask(__name__)
 

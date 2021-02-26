@@ -1,7 +1,7 @@
 import pickle
 import numpy as np
-from sklearn.feature_extraction.text import CountVectorizer
 import pandas as pd
+from sklearn.feature_extraction.text import CountVectorizer
 
 # Intent Predictions
 intent_model = pickle.load(open('classification/models/intent_models/intent_classification_model2020-07-29', 'rb'))
